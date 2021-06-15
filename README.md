@@ -1,2 +1,1 @@
-# 1_expanding_cards
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[click here to see preview](https://machiboy10.github.io/1_expanding_cards/) :)
